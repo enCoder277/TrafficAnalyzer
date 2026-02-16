@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.swp
+*.egg-info/
+*.egg
+.env
+*.env
+
+# Django
+*.sqlite3
+db.sqlite3
+*.log
+/staticfiles/
+media/
+*.pot
+*.pyc
+*.mo
+*.coverage
+.coverage.*
+*.pytest_cache/
+.pytest_cache/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / temp files
+*.pyc
+*.pyo
+
